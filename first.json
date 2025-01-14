@@ -1,0 +1,17 @@
+{
+   "Name":"Bilal",
+    "Age":"18",
+    "Status":"True",
+    "Goals":"Null",
+    "Address":{
+        "Stree":"ABC Ave",
+        "Town":"etc",
+        "City":"Karachi",
+        "Country":"pakistan"
+    },
+    "Hobbies":["Reading Books" , "Coding" , "Gaming"]
+
+}
+
+
+
